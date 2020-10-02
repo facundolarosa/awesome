@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/parser/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/pyvhdlparser/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vhdl/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/framework/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/frameworks/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/systemverilog/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/testing/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/verification/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vunit/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/analiser/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/chips-workshops/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ci/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/compiler/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/conferences/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/cocotb/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/documentation/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/eda-twiki/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/formal/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/fossi/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/fphdl/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/frameworksverification/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/ghdl/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/hdlconvertor/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/iverilog/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/ip-core/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/language-server/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/libraries/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/librariesip-core-libraries/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/librecores/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/librecores-ci/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/netlist/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/netlistsvg/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/nvc/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/osda/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/osvvm/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/orconf/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/poc/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/preprocessor/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/resourceswebsites/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/rust_hdl/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/schematics/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/servicescontinuous-integration/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/simulator/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/symbiyosys/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/synthesis/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/categories/toolswaveform-viewer/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/tsfpga/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/uvvm/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vasg_packages/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vcd/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/verilator/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/verilog/</loc>
+    <lastmod>2020-02-05T05:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vtr/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/vhdl-extras/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/tags/vivado/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/wavedrom/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hdl.github.io/awesome/items/yosys/</loc>
+    <lastmod>2020-02-04T06:14:53+01:00</lastmod>
+  </url>
+  
+</urlset>
